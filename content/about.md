@@ -1,6 +1,8 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2022-10-17"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+This Hugo theme was ported from Ivy, a minimalist website generator built in Python. 
+
+I establish this website through this [web](https://cloud.tencent.com/developer/news/92522).
