@@ -16,9 +16,11 @@ menu:
   main:
     
     - name: Home
-      url: /home/
+      url: https://guoqin77.netlify.app/
+      weight:1
     - name: About
       url: /about/
+      weight:2
    
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
