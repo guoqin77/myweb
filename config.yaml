@@ -1,7 +1,7 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
-theme: hugo-lithium
+title: GuoQin's website
+theme: hugo-ivy
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
