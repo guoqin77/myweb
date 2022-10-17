@@ -16,7 +16,7 @@ menu:
   main:
     
     - name: Home
-      url: https://guoqin77.netlify.app/
+      url: [home](https://guoqin77.netlify.app/)
       weight:1
     - name: About
       url: /about/
