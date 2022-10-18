@@ -15,12 +15,13 @@ permalinks:
 menu:
   main:
     
-    - name: Home
-      url: /post/2022-10-16-myblog/index/
-      weight:1
+   
     - name: About
       url: /about/
-      weight:2
+      
+    - name: Home
+      url: /post/2022-10-16-myblog/index/
+      
    
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
