@@ -15,12 +15,11 @@ permalinks:
 menu:
   main:
     
-   
     - name: About
       url: /about/
       
     - name: Home
-      url: /add/
+      url: /add.Rmd
       
    
 params:
