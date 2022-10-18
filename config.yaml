@@ -20,7 +20,7 @@ menu:
       url: /about/
       
     - name: Home
-      url: /post/2022-10-16-myblog/index/
+      url: /add/
       
    
 params:
