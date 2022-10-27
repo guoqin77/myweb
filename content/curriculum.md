@@ -12,7 +12,7 @@ title: Curriculum
 
 3 [Centos7安装hadoop2.7.2完全分布式集群](https://zhuanlan.zhihu.com/p/493683611)
 
-4 [学习hadoop时遇到的一些问题](https://guoqin77.netlify.app/bigdata/2022-10-27-problems-hadoop/notes-hadoop/)
+4 [学习hadoop时遇到的一些问题](https://guoqin77.netlify.app/hadoop/2022-10-27-problems-hadoop/notes-hadoop/)
 
 
 
@@ -21,7 +21,7 @@ title: Curriculum
 
 # Java
 
-1 [学习java时遇到的一些问题]()
+1 [学习java时遇到的一些问题](https://guoqin77.netlify.app/java/2022-10-27-problems-java/problems/)
 
 # 一些学习课程的视频
 

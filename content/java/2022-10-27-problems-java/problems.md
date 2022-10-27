@@ -14,5 +14,7 @@ tags: []
 3 [在cmd中运行javac文件没有产生class文件](https://blog.csdn.net/qq_51800570/article/details/119651677)
 
 4 手动生成jre:
+
+
 `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
