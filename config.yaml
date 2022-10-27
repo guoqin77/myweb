@@ -22,7 +22,6 @@ menu:
       url: /home/
       
     - name: Curriculum
-      url: /curriculum/
       permalinks:
         bigdata: /:year/:month/:day/:slug/
 
