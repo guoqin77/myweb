@@ -20,6 +20,10 @@ menu:
       
     - name: Home
       url: /home/
+    - name: Link
+      
+permalinks:
+  bigdata: 
       
    
 params:
