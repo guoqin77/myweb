@@ -28,7 +28,9 @@ tags: []
 
 
 **git更多的用法详见：**      
-[Windows下的Git简单使用](https://blog.csdn.net/qq1713802040/article/details/124831253)
+1 [Windows下的Git简单使用](https://blog.csdn.net/qq1713802040/article/details/124831253)
+
+2 [git的删除命令与如何删除仓库文件的方法](https://blog.csdn.net/fantasty9413/article/details/116764190)
 
 ### (2) [GitHub分支创建及合并](https://blog.csdn.net/qq_30607843/article/details/84404000)
 

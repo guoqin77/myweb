@@ -1,5 +1,5 @@
 ---
-date: "2022-10-17"
+date: "2022-10-27"
 title: Curriculum
 ---
 
@@ -20,3 +20,14 @@ title: Curriculum
 
 
 # Java
+
+1 [学习java时遇到的一些问题]()
+
+# 一些学习课程的视频
+
+1 [二级C](https://www.bilibili.com/video/BV1YW411W71y/?p=3&vd_source=2953fd39e7f1e09be79b878e147450e9)
+
+2 [Hadoop大数据技术原理](https://space.bilibili.com/178860846)
+
+
+
