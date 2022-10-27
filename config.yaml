@@ -19,7 +19,7 @@ menu:
       url: /about/
       
     - name: Home
-      url: /add.Rmd
+      url: /home/
       
    
 params:
