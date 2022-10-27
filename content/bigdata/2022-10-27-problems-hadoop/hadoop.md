@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-# 1 safe mode(安全模式)问题
+## 1 safe mode(安全模式)问题
 
 将本地文件复制到hdfs上去或者在hdfs上新建文件时会出现错误：
 
@@ -22,7 +22,7 @@ tags: []
 `hadoop dfsadmin -safemode leave`
 
 
-# 2 hadoop拒绝访问问题
+## 2 hadoop拒绝访问问题
 
 首先,**检查防火墙是否关闭**，关闭防火墙命令：`systemctl stop firewalld`;
 
