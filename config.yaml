@@ -23,6 +23,8 @@ menu:
       
     - name: Curriculum
       url: /curriculum/
+      permalinks:
+        bigdata: /:year/:month/:day/:slug/
 
       
       
