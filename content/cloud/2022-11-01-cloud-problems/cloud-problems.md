@@ -18,17 +18,15 @@ tags: []
 
 出现：**已加载插件：fastestmirror**
 Determining fastest mirrors
-base                                                                         | 3.6 kB  00:00:00
-epel                                                                         | 4.7 kB  00:00:00
-extras                                                                       | 2.9 kB  00:00:00
-http://192.168.127.101/yum/repodata/repomd.xml: [Errno 14] HTTP Error 404 - Not Found 
+
+[Errno 14] HTTP Error 404 - Not Found 
 
 
-[解决方案：](https://www.cnblogs.com/yang5726685/p/15662007.html)
+[解决方案点这里](https://www.cnblogs.com/yang5726685/p/15662007.html)
 
 #### 3 安装了mpich，却仍旧显示没有mpich?
 
-[解决办法：]()
+解决办法：
 
 (1)安装C, C++与Fortran的编译环境:
 
@@ -48,7 +46,7 @@ http://192.168.127.101/yum/repodata/repomd.xml: [Errno 14] HTTP Error 404 - Not 
 
 `./configure --prefix=/usr/local/mpich`
 
-`make && make install `
+`make && make install `**这里可能需要加载很久，要等一下。**
 
 (3)安装后加入环境变量到/etc/profile文件:
 
@@ -57,6 +55,7 @@ http://192.168.127.101/yum/repodata/repomd.xml: [Errno 14] HTTP Error 404 - Not 
 并执行 `source /etc/profile`生效
 
 `PATH=$PATH:/usr/local/mpich/bin`
+
 (4)查看版本信息:
 
 `mpicc -v`

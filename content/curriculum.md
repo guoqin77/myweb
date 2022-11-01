@@ -15,7 +15,9 @@ title: Curriculum
 4 [学习hadoop时遇到的一些问题](https://guoqin77.netlify.app/hadoop/2022-10-27-problems-hadoop/notes-hadoop/)
 
 
+# cloud
 
+1 [搭建MPI时遇到的问题](https://guoqin77.netlify.app/cloud/2022-11-01-cloud-problems/cloud-problems/)
 
 
 
