@@ -1,5 +1,5 @@
 ---
-title: 搭建MPI时遇到的问题
+title: 搭建MPI与搭建时遇到的问题
 author: guoqin77
 date: '2022-11-01'
 slug: cloud-problems
